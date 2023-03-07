@@ -15,7 +15,7 @@ public class OperadoresLogicos {
             System.out.println("Uma das duas condições é verdadeira");
         }
 
-        if (condicao1 && (5 > 3)){
+        if (condicao1 && (5 > 3)) {
             System.out.println("As duas condiões são verdadeiras");
         }
 
