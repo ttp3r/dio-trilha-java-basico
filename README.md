@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositório para testes e exercícios do curso de Java Básico pela DIO.
+Este é um repositório de testes e exercícios das aulas do curso de Java Básico oferecido pela Dio, pelo professor Gleyson Sampaio.
