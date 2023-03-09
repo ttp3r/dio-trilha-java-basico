@@ -1221,7 +1221,6 @@ public class AboutMe {
 }
 ```
 
-![terminal.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f1ae8fd-26fa-40a2-af7c-4fee550d7167/terminal.png)
 
 ```java
 /*Para que não seja necessário ficar iniciando o terminal e ajustando na IDE
